@@ -18,7 +18,7 @@
             "online": "https://www.microcontrollers.co.uk/minima/help"
           },
           "url": "https://github.com/hamishmorley/Minima/blob/main/BoardManager/minima_0.1.0.tar.bz2?raw=true",
-          "archiveFileName": "SAM15x15.tar.bz2",
+          "archiveFileName": "minima_0.1.0.tar.bz2",
           "checksum": "SHA-256:0db113057b98e22778be41fd871be1bfdbf0a0e51e04dd5e28d543204b1d911e",
           "size": "892704",
           "boards": [
@@ -37,9 +37,28 @@
             "online": "https://www.microcontrollers.co.uk/minima/help"
           },
           "url": "https://github.com/hamishmorley/Minima/blob/main/BoardManager/minima_0.1.1.tar.bz2?raw=true",
-          "archiveFileName": "SAM15x15.tar.bz2",
+          "archiveFileName": "minima_0.1.1.tar.bz2",
           "checksum": "SHA-256:92d36b237b499fbcb7fe01af89cfadf868305423ab8e948cf7e0f6cc4d208c88",
           "size": "890791",
+          "boards": [
+            {
+              "name": "Minima"
+            }
+          ],
+          "toolsDependencies": []
+        },
+        {
+          "name": "Minima Boards",
+          "architecture": "samd",
+          "version": "0.1.2",
+          "category": "Contributed",
+          "help": {
+            "online": "https://www.microcontrollers.co.uk/minima/help"
+          },
+          "url": "https://github.com/hamishmorley/Minima/blob/main/BoardManager/minima_0.1.2.tar.bz2?raw=true",
+          "archiveFileName": "minima_0.1.2.tar.bz2",
+          "checksum": "SHA-256:6b05011a36cf861b433b3c7c6b181fa7f4f52b3bbc992db3aefe5ff6c47c0631",
+          "size": "891033",
           "boards": [
             {
               "name": "Minima"
