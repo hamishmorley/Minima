@@ -55,7 +55,7 @@
           "help": {
             "online": "https://www.microcontrollers.co.uk/minima/help"
           },
-          "url": "https://raw.githubusercontent.com/hamishmorley/Minima/main/minima_0.1.2.tar.bz2",
+          "url": "https://github.com/hamishmorley/Minima/blob/main/BoardManager/minima_0.1.2.tar.bz2?raw=true",
           "archiveFileName": "minima_0.1.2.tar.bz2",
           "checksum": "SHA-256:6b05011a36cf861b433b3c7c6b181fa7f4f52b3bbc992db3aefe5ff6c47c0631",
           "size": "891033",
@@ -76,8 +76,8 @@
           },
           "url": "https://github.com/hamishmorley/Minima/blob/main/BoardManager/minima_1.0.0.tar.bz2?raw=true",
           "archiveFileName": "minima_1.0.0.tar.bz2",
-          "checksum": "SHA-256:372132c5f580997453aa23687b6f4ada1377717c4956da711323ef4ac9a48043",
-          "size": "891036",
+          "checksum": "SHA-256:4b4adf7863363ed7a7392cad15a6ec9c3ab3947b0dd93027afa6d1c4e49c78d0",
+          "size": "889535",
           "boards": [
             {
               "name": "Minima"
