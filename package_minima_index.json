@@ -55,7 +55,7 @@
           "help": {
             "online": "https://www.microcontrollers.co.uk/minima/help"
           },
-          "url": "https://github.com/hamishmorley/Minima/blob/main/BoardManager/minima_0.1.2.tar.bz2?raw=true",
+          "url": "https://raw.githubusercontent.com/hamishmorley/Minima/main/minima_0.1.2.tar.bz2",
           "archiveFileName": "minima_0.1.2.tar.bz2",
           "checksum": "SHA-256:6b05011a36cf861b433b3c7c6b181fa7f4f52b3bbc992db3aefe5ff6c47c0631",
           "size": "891033",
