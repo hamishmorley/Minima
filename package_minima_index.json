@@ -27,6 +27,25 @@
             }
           ],
           "toolsDependencies": []
+        },
+        {
+          "name": "Minima Boards",
+          "architecture": "samd",
+          "version": "0.1.1",
+          "category": "Contributed",
+          "help": {
+            "online": "https://www.microcontrollers.co.uk/minima/help"
+          },
+          "url": "https://github.com/hamishmorley/Minima/blob/main/BoardManager/minima_0.1.1.tar.bz2?raw=true",
+          "archiveFileName": "SAM15x15.tar.bz2",
+          "checksum": "SHA-256:92d36b237b499fbcb7fe01af89cfadf868305423ab8e948cf7e0f6cc4d208c88",
+          "size": "890791",
+          "boards": [
+            {
+              "name": "Minima"
+            }
+          ],
+          "toolsDependencies": []
         }
       ],
       "tools": []
