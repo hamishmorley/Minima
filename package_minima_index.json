@@ -13,7 +13,7 @@
           "name": "Minima Boards",
           "architecture": "samd",
           "version": "0.1.0",
-          "category": "Contributed",
+          "category": "Minima",
           "help": {
             "online": "https://www.microcontrollers.co.uk/minima/help"
           },
@@ -32,7 +32,7 @@
           "name": "Minima Boards",
           "architecture": "samd",
           "version": "0.1.1",
-          "category": "Contributed",
+          "category": "Minima",
           "help": {
             "online": "https://www.microcontrollers.co.uk/minima/help"
           },
@@ -51,7 +51,7 @@
           "name": "Minima Boards",
           "architecture": "samd",
           "version": "0.1.2",
-          "category": "Contributed",
+          "category": "Minima",
           "help": {
             "online": "https://www.microcontrollers.co.uk/minima/help"
           },
@@ -65,6 +65,56 @@
             }
           ],
           "toolsDependencies": []
+        },
+        {
+          "name": "Minima Boards",
+          "architecture": "samd",
+          "version": "1.0.0",
+          "category": "Minima",
+          "help": {
+            "online": "https://www.microcontrollers.co.uk/minima/help"
+          },
+          "url": "https://github.com/hamishmorley/Minima/blob/main/BoardManager/minima_1.0.0.tar.bz2?raw=true",
+          "archiveFileName": "minima_1.0.0.tar.bz2",
+          "checksum": "SHA-256:4d497283beec6f99d3b57f98304041aa8941ba9988aedd93f6d977984e0f4aa5",
+          "size": "891036",
+          "boards": [
+            {
+              "name": "Minima"
+            }
+          ],
+          "toolsDependencies": [
+            {
+              "packager": "arduino",
+              "name": "arm-none-eabi-gcc",
+              "version": "7-2017q4"
+            },
+            {
+              "packager": "arduino",
+              "name": "bossac",
+              "version": "1.7.0-arduino3"
+            },
+            {
+              "packager": "arduino",
+              "name": "openocd",
+              "version": "0.10.0-arduino7"
+            },
+            {
+              "packager": "arduino",
+              "name": "CMSIS",
+              "version": "4.5.0"
+            },
+            {
+              "packager": "arduino",
+              "name": "CMSIS-Atmel",
+              "version": "1.2.0"
+            },
+            {
+              "packager": "arduino",
+              "name": "arduinoOTA",
+              "version": "1.2.1"
+            }
+          ]
         }
       ],
       "tools": []
